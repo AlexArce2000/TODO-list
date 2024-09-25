@@ -18,7 +18,7 @@ ENV/
 *.log
 
 # Ignorar archivos de datos
-*.json
+#*.json
 
 # Ignoar pdf
 *.pdf
