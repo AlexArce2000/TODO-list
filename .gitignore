@@ -20,6 +20,9 @@ ENV/
 # Ignorar archivos de datos
 todo_list.json
 
+# Ignoar pdf
+todo_list.pdf
+
 # Ignorar archivos de sistema
 .DS_Store
 Thumbs.db
