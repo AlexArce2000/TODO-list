@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "task": "Ir al mercado",
+        "created_at": "2024-09-25T02:54:31.268155",
+        "completed": true
+    },
+    {
+        "id": 2,
+        "task": "Hacer el almuerzo",
+        "created_at": "2024-09-25T02:54:37.884220",
+        "completed": true
+    },
+    {
+        "id": 3,
+        "task": "Salir a pasear",
+        "created_at": "2024-09-25T02:55:01.599817",
+        "completed": false
+    },
+    {
+        "id": 4,
+        "task": "Beber",
+        "created_at": "2024-09-25T02:55:16.716904",
+        "completed": false
+    }
+]
