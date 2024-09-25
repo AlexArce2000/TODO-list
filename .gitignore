@@ -18,10 +18,10 @@ ENV/
 *.log
 
 # Ignorar archivos de datos
-json-list/todo_list.json
+*.json
 
 # Ignoar pdf
-json-list/todo_list.pdf
+*.pdf
 
 # Ignorar archivos de sistema
 .DS_Store
