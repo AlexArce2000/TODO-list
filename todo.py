@@ -1,4 +1,4 @@
-from modulos.gui import setup_gui
+from modulos.gui import root
 
 if __name__ == "__main__":
-    setup_gui()
+    root.mainloop()
